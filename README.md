@@ -9,4 +9,5 @@
 - esperar por um elemento estar visível antes de interagir com ele<br>
 - esperar por requisições HTTP antes de seguir em frente com os testes<br>
 - simulação de erros no servidor e na rede<br>
+- interceptar e mockar uma API externa para testar o frontend independente do backend <br>
 usando  `cy.intercept`
